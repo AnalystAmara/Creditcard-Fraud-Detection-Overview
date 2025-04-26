@@ -17,8 +17,10 @@ The original dataset consists of 283,726 rows and 31 columns, including anonymiz
 
 The dataset was relatively clean. However, some transformations were done to ease visualization and they include:
 
--	The columns with anonymized features, which were encrypted for security reasons, Column 2 to Column 29 (V1 to V28), were removed as they could not be decrypted and therefore not useful for this analysis.
+-	The columns with anonymized features, which were encrypted for security reasons, Column 2 to Column 29 (V1 to V28), were removed as they could not be decrypted and therefore not useful for this analysis. 
 -	The values of the Class Column were replaced. ‘0’ was replaced with Non Fraud, ‘1’ was replaced with Fraud for quick grasp of the overview.
+
+Note: Here is a link to the dataset containing the anonymized features: https://1drv.ms/x/c/0f2867637f111f76/EeukdZbBT8dFvx1UxDRB_xcBfAOp_KoOeCc8SkcGjUSkFg?e=kWzBpG
 
 ### Analysis
 
